@@ -87,7 +87,7 @@
 </head>
 <body>
     <header>
-        <h1>Interactive Recipes</h1>
+        <h1>traditional italian  Recipes</h1>
         <p>Discover and enjoy delicious recipes with a click!</p>
     </header>
 
@@ -127,7 +127,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2024 traditional italian  Recipes.</p>
+        <p>&copy; 2024 traditional Italian Recipes.</p>
     </footer>
 
     <script>
